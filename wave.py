@@ -1,8 +1,8 @@
 import math
 import time
 
-#discord now suports the display of files and their contenets
-#including code and its color themes
+
+#ik ik my var nameing is dog shit, no no plz feel free to tell me all about how im over using brackets and how you would have done it soooo much better
 
 
 i = 1
